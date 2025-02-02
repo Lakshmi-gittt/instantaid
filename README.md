@@ -11,7 +11,7 @@
 - Member 3: [Name] - [College]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://instantaid.vercel.app/
 
 ### Project Description
 [2-3 lines about what your project does]
