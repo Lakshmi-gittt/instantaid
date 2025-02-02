@@ -6,8 +6,8 @@
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Lakshmi Sankar - LBSITW
+- Member 2: Bhadra - LBSITW
 - Member 3: [Name] - [College]
 
 ### Hosted Project Link
